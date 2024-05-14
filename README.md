@@ -1,5 +1,3 @@
-# GaussianTimeSeries-MLOps-AWS-Deployment
-
 # Time Series Gaussian Model and AWS Deployment
 
 ## Business Objective
